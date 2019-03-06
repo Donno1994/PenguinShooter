@@ -1,4 +1,4 @@
-PenguinShooter is a Bitcoin Lightning enabled game which displays LN invoices within the game.
+# PenguinShooter - A Lightning Network enabled RPG which displays LN invoices within the game.
 It is a simple demo RPG in which you fight monsters and lvl up.
 You will see LN invoices as QR codes in the game and scan them with your mobile wallet or click them which copies it to clipboard for fast desktop payments (for example with Zap wallet)
 
@@ -29,7 +29,7 @@ Important are the invoice.macaroon and tls.cert
 
 
 
-Instructions to play this game (connecting to the LN node of the developer)
+## Instructions to play this game (connecting to the LN node of the developer)
 
 1. Download this repository.
 2. Open the PenguinShooter-master folder and run PenguinShooter.exe
@@ -37,7 +37,7 @@ The game will now boot and connect to my LND node. If successful, it will displa
 3. You now have to pay the invoice at the wall (150 sat). You can either use your mobile wallet and scan the QR code, or you can click on the QR code (which copies it to clipboard) and paste it into a desktop LN wallet.
 4. For gameplay visit https://medium.com/@BR_Robin/a-bitcoin-lightning-network-powered-rpg-penguinshooter-6d36cc34de0c
 
-Instructions to play this game with your own node (testnet and mainnet possible)
+## Instructions to play this game with your own node (testnet and mainnet possible)
 1. Download this repository
 2. Enter the folder PenguinShooter-master\PenguinShooter_Data\Resources and open the donner.conf
 3. Enter the information about you LND node. Replace "penguinshooter.chickenkiller.com" with the IP address of your node. If it is on the same computer as you run the game you can enter "127.0.0.1". If it's in the same wifi network (e.g. if you have the node on a rapberry pi) you can use something like "192.168.2.157" (you need to check the local IP address of the node). Under "Port" enter the port number of your LND node (default is 10009).
