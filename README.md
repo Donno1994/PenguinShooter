@@ -7,7 +7,7 @@ You can open a door, spawn monsters, buy items etc. with small Lightning Network
 https://www.youtube.com/watch?v=ZCOwVHUmIT4
 
 In this version you can now connect to your own LND node which makes it basically free. You can also connect to a testnet node.
-By default you will be connected to my personal (mainnet) node 02b94191cd26b1b8650b1204371ee65aa8725ca56474efbb629240a41d4bf7fec0@penguinshooter.chickenkiller.com:9735
+By default you will be connected to my personal (mainnet) node 029dce8f4ce95fb831b6a0af923a4e27e52d053088fb143efad88bfa425cc50c48@penguinshooter.chickenkiller.com:9735
 
 This is also a demo game to show how livestreaming could become more interesting.
 You can setup a webserver which creates invoices to your livestream viewers.
