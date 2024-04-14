@@ -1,4 +1,11 @@
 # PenguinShooter - A Lightning Network enabled RPG which displays LN invoices within the game.
+
+You can find the latest version of this game on https://www.lightning-fun.com .
+
+This github page is about the downloadable version of the game which is no longer being developed.
+On https://www.lightning-fun.com you can play the game inside the browser.
+
+
 It is a simple demo RPG in which you fight monsters and lvl up.
 You will see LN invoices as QR codes in the game and scan them with your mobile wallet or click them which copies it to clipboard for fast desktop payments (for example with Zap wallet)
 
